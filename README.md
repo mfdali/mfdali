@@ -32,10 +32,3 @@ My name is Monique Dali and...:
 If you want to follow me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-feitosa-97b42569/)](https://www.linkedin.com/in/monique-feitosa-97b42569/)
 
 
----
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinicius-mattoso&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mattoso&layout=compact&theme=graywhite&hide_border=true" width="313" />
-</div>
-
-
