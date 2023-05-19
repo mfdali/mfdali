@@ -29,8 +29,14 @@ My name is Monique Dali and ...
 - 📚 I’m finishing a graduate degree in Data Science & Analytics at the Computer Science department at PUC-Rio;
 
 
-If you want to follow me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-feitosa-97b42569/)](https://www.linkedin.com/in/monique-feitosa-97b42569/)
+If you want to follow me: 
 
-Publications: [ResearchGate](https://www.researchgate.net/profile/Monique-Dali)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-feitosa-97b42569/)](https://www.linkedin.com/in/monique-feitosa-97b42569/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mfeitosa@lmmp.mec.puc-rio.br)](mailto:mfeitosa@lmmp.mec.puc-rio.br)
+
+Publications: 
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Monique-Dali)
 
 
