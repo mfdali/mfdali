@@ -27,6 +27,7 @@ My name is Monique Dali and ...
 - 🚀 I'm currently learning a lot about artificial intelligence and data science;
 
 - 📚 I’m finishing a graduate degree in Data Science & Analytics at the Computer Science department at PUC-Rio;
+- :robot: I have worked in this [AI repository](https://github.com/mfdali/PermeabilityCircularVugs) for Data Analysis, Machine Learning & Deep Learning pipelines.
 
 
 If you want to follow me: 
