@@ -32,7 +32,7 @@ My name is Monique Dali and ...
 
 If you want to follow me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-feitosa-97b42569/)](https://www.linkedin.com/in/monique-feitosa-97b42569/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monique-dali/)](https://www.linkedin.com/in/monique-dali/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mfeitosa@lmmp.mec.puc-rio.br)](mailto:mfeitosa@lmmp.mec.puc-rio.br)
 
